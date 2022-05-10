@@ -1,0 +1,329 @@
+<!--
+ =========================================================
+ * Blk• Design System Pro - v1.0.0
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/blk-design-system-pro
+ * Copyright 2019 Creative Tim (http://www.creative-tim.com)
+
+ * Coded by www.creative-tim.com
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
+  <link rel="icon" type="image/png" href="../assets/img/favicon.png">
+  <title>
+    EVMOS Name Service - Decentralized Naming Service
+  </title>
+  <!--     Fonts and icons     -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,600,700,800" rel="stylesheet" />
+  <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+  <!-- Nucleo Icons -->
+  <link href="../assets/css/nucleo-icons.css" rel="stylesheet" />
+  <!-- CSS Files -->
+  <link href="../assets/css/blk-design-system-pro.css?v=1.0.0" rel="stylesheet" />
+  <!-- CSS Just for demo purpose, don't include it in your project -->
+  <link href="../assets/demo/demo.css" rel="stylesheet" />
+</head>
+
+<body class="landing-page">
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg  fixed-top transperant" style="background-color:#065CAB">
+    <div class="container">
+      <div class="navbar-translate">
+        <a class="navbar-brand" href="https://evmosnameservice.com" rel="tooltip" title="" data-placement="bottom" target="">
+          <div class="col-lg-4 col-md-5">
+                <span><img src="../assets/img/evns_fav_logo.png"></span>
+              </div>
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-bar bar1"></span>
+          <span class="navbar-toggler-bar bar2"></span>
+          <span class="navbar-toggler-bar bar3"></span>
+        </button>
+      </div>
+      <div class="collapse navbar-collapse" id="navigation">
+        <div class="navbar-collapse-header">
+          <div class="row">
+            <div class="col-6 collapse-brand">
+              <a>
+                <div class="col-lg-4 col-md-5">
+                <span><img src="../assets/img/evns_fav_logo.png" alt="Circle image" class="img-fluid"></span>
+              </div>
+			  </a>
+            </div>
+            <div class="col-6 collapse-close text-right">
+              <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="tim-icons icon-simple-remove"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+										<div class="collapse navbar-collapse" id="navbarResponsive">
+                                        <ul class="navbar-nav">
+                                            <li class="nav-item">
+                                                <a class="nav-link js-scroll-trigger" href="#features_block">Features</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link js-scroll-trigger" href="/docs/roadmap.pdf">Roadmap</a>
+                                            </li>
+
+                                            <li class="nav-item">
+                                                <a class="nav-link js-scroll-trigger" href="airdrop.html">Airdrop</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link js-scroll-trigger" href="#aboutus">About us</a>
+                                            </li>
+                                        <li class="nav-item">
+                                                <a class="nav-link js-scroll-trigger" href="#fauct">Fauct</a>
+                                            </li>
+										</ul>
+                                    </div>
+      </div>
+    </div>
+  </nav>
+  <!-- End Navbar -->
+ <div class="wrapper">
+    <div class="page-header">
+      <img src="../assets/img/blob.png" class="path">
+      <img src="../assets/img/path2.png" class="path2">
+      <img src="../assets/img/triunghiuri.png" class="shapes triangle">
+      <img src="../assets/img/waves.png" class="shapes wave">
+      <img src="../assets/img/patrat.png" class="shapes squares">
+      <img src="../assets/img/cercuri.png" class="shapes circle">
+      <div class="container">
+        <div class="row row-grid justify-content-between align-items-center text-left">
+          <div class="col-lg-6 col-md-6">
+            <h1 class="text-white">Decentralized Naming Services for Wallets and Websites
+              
+            </h1>
+            <p class="text-white mb-3"> Simplify your crypto currency payments with human readable names. EVMOS Naming Service (EVNS) Built on Cosmos and EVMOS blockchain. No More Wallet Address Use Only Simple Username. One Name for Wallet, Website etc.
+            <div class="btn-wrapper mb-3">
+              <p class="category text-success d-inline">Testnet Live Soon</p>
+              <a href="#blk" class="btn btn-success btn-link btn-sm"><i class="tim-icons icon-minimal-right"></i></a>
+            </div>
+            <div class="btn-wrapper">
+              <div class="button-container">
+                <a href="https://twitter.com/evmosns" class="btn btn-icon btn-simple btn-round btn-neutral" target="_blank">
+                  <i class="fab fa-twitter" href="https://twitter.com/evmosns"></i>
+                </a>
+                <a href="https://t.me/evmosns" class="btn btn-icon btn-simple btn-round btn-neutral">
+                  <i class="fab fa-telegram"></i>
+                </a>
+                <button href="" class="btn btn-icon btn-simple btn-round btn-neutral">
+                  <i class="fab fa-discord"></i>
+                </button>
+				<a href="https://evmosns.medium.com" class="btn btn-icon btn-simple btn-round btn-neutral" target="_blank">
+                  <i class="fab fa-medium"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-5">
+            <img src="../assets/img/etherum.png" alt="Circle image" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    </div>
+	 
+	  
+	  <div class="col-md-12">
+              <div class="pl-md-12">
+			  <br><br>
+                <h1 align="center"><b>EVNS AIRDROP & REWARDS</b></h1>
+                  <br/>
+                <h3 align="left"><b>EVNS — EVMOS Name Service</b></h3>
+<p>
+The cryptocurrency sector has withnessed a lot of changes in 2021, with BTC hitting an all-time high and ETH hitting an all-time high, We see a lot of new technologies and new type of products coming to crypto space,DeFi, DAO, NFT, Blockchain based games, Metaverse and so on. Many people use UNISWAP and all other major decentralized exchanges for swap tokens on ETH network, this is one of the major reason to push ETH gas price hike, At some point swap tokens in ETH Network costing $200 to $400. 
+
+So we decided to provide an Airdrop to REKT users who spend more gas fees on Ethereum network using decentralized exchange swaps or token transfers.
+</p>
+
+<p>
+We are also providing an airdrop to Cosmos Ecosystem users who stake or hold ATOM or OSMO, Currently but snapshot have not been taken yet, Mostly snapshot will take place at the end of march or april first week, Their is no minimum staking amount but if you hold more tokens you will get receive more $EVNS Tokens.
+</p>
+<br>
+
+<h3 align="left"><b>TESTNET REWARDS</b></h3>
+<p>$EVNS Token build on EVMOS and Cosmos chain, So we are going to release Testnet Version of EVNS Domain Services at the end of March or April Second or 3rd Week, Who is creating domains and make some activities on test network and provide feedback will get eligible for testnet rewards, eligible for $EVNS Testnet Rewards Program.
+</p>
+<br>
+<h3 align="left"><b>MAINNET REWARDS</b></h3>
+<p>
+Once mainnet is launched (expected to launch at the end of April or May first week, $EVNS Mainnet domain holders will get $EVNS Tokens Airdrop as part of $EVNS Mainnet Rewards Program.
+</p>
+<br>
+
+
+<p>
+Total 40% of the supply will be allocated to Airdrop and Rewards purpose,their is 5 categories 1.Ethereum REKT users who is spend more than 0.5ETH as gas fee, 2.ATOM, OSMO Token Holders, 3.Testnet Rewards Program, 4.Mainnet Rewards Program, 5.Donated Users. 
+</p>
+<br>
+
+<br>
+<h3 align="left"><b>ELIGIBILITY</b></h3>
+<p>
+Ethereum Users: Who is spend more than 0.5 ETH on Ethereum Ecosystem like using tokenswaps and transfers ect, 
+</p>
+<p>
+ATOM, OSMO, EVMOS Token holders or stakeholders will get eligible for airdrop.
+</p>
+<br>
+<p>
+40% of the total supply will be distributed for airdrop and rewards purpose only.
+</p>
+<p><b>
+ETH ECOSYSTEM 5%</b>
+</p>
+<p><b>
+ATOM, OSMO, EVMOS HOLDERS/STAKE HOLDERS 5%</b>
+</p>
+<p><b>
+TESTNET DOMAIN HOLDERS 5%</b>
+</p>
+
+<p><b>
+MAINNET DOMAIN HOLDERS 15%</b>
+</p>
+
+<p><b>
+DONATION USERS 10%</b>
+</p>
+<br>
+
+<p><b>
+DONATIONS ACCEPTED IN ETH,BNB, ATOM</b>
+</p>
+<br>
+
+<p>YOU CAN SEND ETH,BNB OR ATOM TO THE BELOW ADDRESS TO GET ELIGIBLE FOR $EVNS TOKEN AIRDROP, DONATED ETH OR BNB WILL BE USED TO PROVIDE DEX EXCHANGE LIQUIDITY</p>
+<br>
+
+<p>
+<b>MIN :-0.01ETH,0.1BNB, 1 ATOM ,MAX:- 2ETH, 5BNB,20ATOM <b>
+</p>
+<br>
+
+<p><b>
+ETH / BNB ADDRESS 0x4730926E89830C66CEfB78d039991c3fa8895c00
+<br>
+<br>
+COSMOS (ATOM) cosmos148dtqpkrfn3d3ce5c2zfmkt7r3ntsxeh76zmhm
+<b>
+</p>
+<br>
+<p><b>DONATIONS ACCEPTED FOR LIQUIDITY PURPOSE ONLY</b></p>
+</p>
+</div>
+</div>
+
+   
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <span><img src="../assets/img/evns_fav_logo.png"></span>
+          </div>
+          <div class="col-md-3 col-6">
+            <ul class="nav">
+              <li class="nav-item">
+                <a href="../index.html" class="nav-link">
+                  Home
+                </a>
+              </li>
+			  <li class="nav-item">
+                <a href="" class="nav-link">
+                  About Us
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-3 col-6">
+            <ul class="nav">
+              <li class="nav-item">
+                <a href="mailto: support@evmosnameservice.com" class="nav-link">
+                  Contact Us
+                </a>
+              </li>
+
+              <li class="nav-item">
+                <a href="" class="nav-link">
+                  Blog
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-3">
+            <h3 class="title">Follow us:</h3>
+            <div class="btn-wrapper profile text-left">
+              <a target="_blank" href="https://twitter.com/evmosns" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us">
+                <i class="fab fa-twitter"></i>
+              </a>
+              <a target="_blank" href="https://t.me/evmosns" class="btn btn-icon btn-neutral btn-round btn-simple" data-toggle="tooltip" data-original-title="Join Telegram">
+                <i class="fab fa-telegram"></i>
+              </a>
+              <a target="_blank" href="https://evmosns.medium.com" class="btn btn-icon btn-neutral  btn-round btn-simple" data-toggle="tooltip" data-original-title="Follow us">
+                <i class="fab fa-medium"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+  <!--   Core JS Files   -->
+  <script src="../assets/js/core/jquery.min.js" type="text/javascript"></script>
+  <script src="../assets/js/core/popper.min.js" type="text/javascript"></script>
+  <script src="../assets/js/core/bootstrap.min.js" type="text/javascript"></script>
+  <script src="../assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+  <!--  Plugin for Switches, full documentation here: http://www.jque.re/plugins/version3/bootstrap.switch/ -->
+  <script src="../assets/js/plugins/bootstrap-switch.js"></script>
+  <!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+  <script src="../assets/js/plugins/nouislider.min.js" type="text/javascript"></script>
+  <!--  Plugin for the Carousel, full documentation here: http://kenwheeler.github.io/slick/ -->
+  <script src="../assets/js/plugins/slick.js" type="text/javascript"></script>
+  <!--  Plugin for the blob animation -->
+  <script src="../assets/js/plugins/anime.min.js" type="text/javascript"></script>
+  <!-- Chart JS -->
+  <script src="../assets/js/plugins/chartjs.min.js"></script>
+  <!--  Plugin for the DatePicker, full documentation here: https://github.com/uxsolutions/bootstrap-datepicker -->
+  <script src="../assets/js/plugins/moment.min.js"></script>
+  <!--	Plugin for Tags, full documentation here: https://github.com/bootstrap-tagsinput/bootstrap-tagsinputs  -->
+  <script src="../assets/js/plugins/bootstrap-tagsinput.js"></script>
+  <!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
+  <script src="../assets/js/plugins/bootstrap-selectpicker.js" type="text/javascript"></script>
+  <!--  Plugin for the DateTimePicker, full documentation here: https://eonasdan.github.io/bootstrap-datetimepicker/ -->
+  <script src="../assets/js/plugins/bootstrap-datetimepicker.js" type="text/javascript"></script>
+  <!-- Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
+  <script src="../assets/js/plugins/jasny-bootstrap.min.js"></script>
+  <!-- Black Dashboard DEMO methods, don't include it in your project! -->
+  <script src="../assets/demo/demo.js"></script>
+  <!-- Control Center for Black UI Kit: parallax effects, scripts for the example pages etc -->
+  <!--  Google Maps Plugin    -->
+  <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+  <script src="../assets/js/blk-design-system-pro.min.js?v=1.0.0" type="text/javascript"></script>
+  <script>
+    $(document).ready(function() {
+      // Javascript method's body can be found in assets/assets-for-demo/js/demo.js
+      demo.initLandingPageChart();
+    });
+  </script>
+  <script src="https://cdn.trackjs.com/agent/v3/latest/t.js"></script>
+  <script>
+    window.TrackJS &&
+      TrackJS.install({
+        token: "ee6fab19c5a04ac1a32a645abde4613a",
+        application: "black-dashboard-pro"
+      });
+  </script>
+</body>
+
+</html>
